@@ -1,0 +1,410 @@
+19,3329,MS-1,i
+26,6929,Maus,x
+27,4145,WZ-121,x
+28,5681,121B,x
+30,3681,STB-1,x
+31,13825,T-62A,x
+33,6209,AMX 50 B,x
+36,7169,IS-7,x
+38,11777,KV-1,v
+41,4609,T-26,ii
+42,1601,D1,ii
+48,353,Chi-Ni,ii
+53,8017,Valentine AT,iii
+54,3073,T-46,iii
+55,321,D2,iii
+56,5953,AMX 38,iii
+59,6673,Marder II,iii
+60,6433,T82,iii
+62,54801,T-15,iii
+67,769,BT-7,iii
+75,52993,A-32,iv
+76,6481,Covenanter,iv
+79,1809,Hetzer,iv
+81,1089,B1,iv
+82,2049,A-20,iv
+84,64849,AC 1 Sentinel,iv
+85,9041,Alecto,iv
+86,3121,M5A1 Stuart,iv
+88,10529,T67,v
+89,2577,VK 30.01 (H),v
+92,14145,AMX ELC,v
+93,2129,Crusader,v
+97,6721,BDR G1 B,v
+99,257,SU-85,v
+100,1,T-34,v
+101,8785,AT 2,v
+104,11793,Nashorn,vi
+110,11585,ARL V39,vi
+111,62993,VK 45.03,vii
+112,4929,AMX 13 90,viii
+114,4353,T-44,viii
+117,10001,VK 28.01,vi
+118,10497,KV-2,vi
+119,64337,AC IV Sentinel,vi
+120,2561,T-34-85,vi
+121,64257,T-34-85 Victory,vi
+123,5153,M5 Stuart,iii
+124,4465,Hafen,vii
+127,9297,FV215b(183),x
+128,9489,E 100,x
+130,19217,Grille 15,x
+135,10257,E 50,ix
+136,2593,T30,ix
+137,7953,Jagdtiger,ix
+140,11521,IS-8,ix
+141,15393,T54E1,ix
+142,7937,T-54,ix
+145,12033,SU-122-54,ix
+146,9745,E 75,ix
+147,10753,ST-I,ix
+148,9505,M103,ix
+152,49,Type 59,viii
+153,18209,T49,viii
+154,14625,T69,viii
+155,5377,IS-3,viii
+156,2849,T34,viii
+162,8465,Panther II,viii
+163,5137,Tiger II,viii
+165,7425,ISU-152,viii
+168,3137,AMX 50 100,viii
+172,11041,T25/2,vii
+175,10769,Tiger (P),vii
+176,10065,AT 7,vii
+177,3873,T29,vii
+179,64529,E 25,vii
+180,10241,SU-100M1,vii
+182,18433,LTTB,vii
+184,513,IS,vii
+186,6689,T49 ATM,vii
+187,5889,KV-3,vii
+188,52513,M6A2E1,vii
+189,3153,Black Prince,vii
+194,2305,SU-152,vii
+195,881,Edelweiss,vii
+196,6657,T-43,vii
+197,1569,T20,vii
+199,60417,IS-3 Defender,viii
+200,54097,AT 15A,vii
+204,5185,AMX 13 75,vii
+206,15697,Chieftain Mk.6,x
+207,4721,Gravedigger,vii
+208,5233,Smasher,vii
+210,801,M6,vi
+211,1393,Nameless,vii
+212,18177,T-54 ltwt.,viii
+213,16641,MT-25,vi
+217,5409,M7,iv
+218,817,WZ111,viii
+219,1105,Cromwell,vi
+220,11809,T23E3,vii
+224,54785,SU-100Y,vi
+225,3585,SU-100,vi
+227,2321,VK 36.01 (H),vi
+229,6465,AMX 12 t,vi
+231,2817,KV-1S,vi
+232,55889,Cromwell B,vi
+233,9553,AT 8,vi
+234,11265,T-150,vi
+235,15137,T21,vi
+236,57105,Dicker Max,vi
+237,849,Matilda,iv
+244,17489,Charioteer,viii
+245,18257,Challenger,vii
+246,8961,KV-13,vii
+248,15953,FV201(A45),vii
+249,5745,Y5 Firefly,vi
+251,6145,IS-4,x
+252,5489,Y5 T-34,v
+253,10273,M8A1,iv
+255,13857,T110E3,x
+256,7185,VK 30.01 (P),vi
+257,65377,Type 3 Chi-Nu Kai,v
+258,65329,Type 62,vii
+259,64769,IS-6 Fearless,viii
+260,64593,Angry Connor,v
+261,64273,Snowstorm Jagdtiger 8.8,viii
+262,64065,FCM 50 t,viii
+263,64017,Tankenstein,vii
+264,64001,T-34-85 Rudy,vii
+265,63601,Dracula,vii
+266,62977,T-44-100,viii
+267,60177,"Panther mit 8,8 cm L/71",viii
+268,60161,IS-2Sh,viii
+269,59905,T-54 first prototype,viii
+270,59665,Gro?traktor - Krupp,iii
+271,59649,ISU-122S,vii
+272,58641,VK 72.01 (K),x
+273,57617,Panther/M10,vii
+274,57361,Pz.Kpfw. IV Schmalturm,vi
+275,56577,LTP,iii
+276,56097,M4A3E8 Fury,vi
+277,55313,"8,8 cm Pak 43 Jagdtiger",viii
+278,55297,SU-122-44,vii
+279,55057,Pz.Kpfw. IV hydrostat.,v
+280,54865,Light Mk. VIC,ii
+281,54545,T-25,v
+282,54529,Tetrarch,ii
+283,54353,Excelsior,v
+284,54273,SU-76I,iii
+285,53841,TOG II*,vi
+286,53761,SU-85I,v
+287,53585,Matilda Black Prince,v
+288,53537,T1E6,ii
+289,53505,T-127,iii
+290,53249,KV-5,viii
+291,53025,M6A2E1 EXP,viii
+292,52737,M3 Light,iii
+293,52561,Tortoise,ix
+294,52497,Pz.Kpfw. 38H 735 (f),ii
+295,52481,Valentine II,iv
+296,52257,M4A2E4 Sherman,v
+297,52225,BT-SV,iii
+298,52065,Hetzer Kame SP,iv
+299,51809,Type 98 Ke-Ni Otsu,iii
+300,51745,Ram II,v
+301,51729,Pz.Kpfw. II Ausf. J,iii
+302,51713,Churchill III,v
+303,51489,T2 Light Tank,ii
+304,51457,Matilda IV,v
+305,51201,KV-220 Beta-Test,v
+306,21777,VK 90.01 (P),x
+307,21521,E 75 TS,viii
+308,21265,VK 168.01 (P),viii
+309,21249,Thunder,vi
+310,21009,Panzer 58,viii
+311,20993,T-2020,viii
+312,20753,M?uschen,ix
+313,20737,SU-130PM,viii
+314,20257,XM551 Sheridan,x
+315,20049,FV301,viii
+316,20001,T92E1,ix
+317,19969,T-22 medium,x
+318,19793,Vickers Cruiser,ix
+319,19745,T26E5,viii
+320,19729,Tiger 131,vi
+322,19537,Vickers Light 105,x
+323,19489,T28 Defender,viii
+324,19473,Krupp-38(D),v
+325,19233,Chrysler K,viii
+326,19025,Defender Mk. 1,viii
+327,18977,T95E6,x
+328,18945,ISU-130,viii
+329,18769,Caernarvon Action X,viii
+330,18689,T-70/57,iii
+331,18513,Chimera,viii
+332,18001,FV4005,x
+333,17745,FV217 Badger,x
+334,17233,FV4004 Conway,ix
+335,16897,Object 140,x
+336,16673,T37,vi
+337,16449,AMX 13 57,vii
+338,15937,Renault R35,i
+339,15905,M60,x
+340,15889,VK 30.02 (M),vi
+341,15649,T71,vii
+342,15441,Chieftain/T95,viii
+344,14609,Leopard 1,x
+346,14113,M48 Patton,x
+347,14097,VK 30.01 (D),vi
+348,13841,Indien-Panzer,viii
+349,13089,T110E4,x
+350,12545,K-91,ix
+351,12321,T6E1,iv
+352,12097,AMX AC mle. 48,viii
+353,12065,T95E2,viii
+354,11073,AMX 50 Foch,ix
+355,11009,KV-4,viii
+356,10785,T110E5,x
+357,10049,S-35 CA,v
+358,9985,SU-101,viii
+359,9809,Churchill Gun Carrier,vi
+360,9793,Somua SAu 40,iv
+361,9249,T25 AT,vii
+362,9217,IS-6,viii
+363,8993,M46 Patton,ix
+364,8737,T95,ix
+365,8529,AT 15,viii
+366,8513,AMX 30B,x
+367,8497,WZ-111 model 5A,x
+368,8273,Universal Carrier 2-pdr,ii
+369,8257,Renault UE 57,iii
+370,8241,WZ-111G FT,ix
+371,8225,T28,viii
+372,8209,Pz.Kpfw. 38 (t) n.A.,iv
+373,8001,Lorraine 40 t,viii
+374,7985,WZ-111-1G FT,viii
+375,7745,Renault FT AC,ii
+376,7729,WZ-131G FT,vi
+377,7713,T40,iv
+378,7697,Ferdinand,viii
+379,7537,Nightmare,v
+380,7505,Cruiser Mk. IV,iii
+381,7473,T-34-2G,vii
+382,7281,Lycan,vii
+383,7249,FV4202,x
+384,7217,WZ-112-2,viii
+385,7025,Vulcan,vii
+386,6993,Cruiser Mk. II,i
+387,6977,AMX M4 mle. 45,vii
+388,6961,WZ120-1G,viii
+389,6945,M10 Wolverine,v
+390,6913,SU-85B,iv
+391,6705,LT vz. 38,ii
+392,6449,WZ-113G FT,x
+393,6401,SU-76,iii
+394,6257,M4/FL10,vii
+395,6225,FV215b,x
+396,6193,T-34-3,viii
+397,6177,T18,ii
+398,6001,Y5 ELC bis,vii
+399,5969,Centurion Mk. I,viii
+401,5921,M26 Pershing,viii
+402,5457,Comet,vii
+403,5425,WZ-113,x
+404,5217,Chi-To SPG,vii
+405,5201,Cruiser Mk. I,ii
+406,5169,Type 58,vi
+407,5121,AT-1,ii
+408,4993,P.43/06 anniversario,vi
+409,4977,Scavenger,v
+410,4961,Ho-Ri Type I,viii
+411,4897,M2 Medium Tank,iii
+412,4881,Pz.Kpfw. III Ausf. A,iii
+413,4705,Firefly Saunders SP,vi
+414,4689,Churchill VII,vi
+415,4657,Type T-34,v
+416,4449,IS-2 Pravda SP,vii
+417,4433,Conqueror,ix
+418,4401,Type 2597 Chi-Ha,iii
+419,4385,T32,viii
+420,4193,Ho-Ri Type II,ix
+421,4113,VK 30.02 (D),vii
+422,3953,T 55A,ix
+423,3937,Ho-Ri Type III,x
+424,3921,Caernarvon,viii
+425,3905,AMX 50 120,ix
+426,3697,Lupus,vii
+428,3633,IS-2,vii
+429,3601,Panzerj?ger I,ii
+430,3425,Type 61,ix
+431,3105,M3 Lee,iv
+432,2945,Progetto M35 mod. 46,viii
+433,2897,Churchill I,v
+434,2881,AMX 40,iv
+435,2865,WZ-110,viii
+436,2689,Vickers Mk. F,i
+437,2657,STA-1,viii
+438,2625,ARL 44,vi
+439,2609,Type 64,vi
+440,2433,10TP,ii
+441,2401,Type 98 Ke-Ni,iii
+442,2385,Vickers Medium Mk. III,iii
+443,2369,FCM 36 Pak 40,iii
+444,2353,Vickers Mk. E Type B,i
+445,2177,14TP,iii
+446,2097,WZ-111 model 1-4,ix
+447,2065,Pz.Kpfw. II,i
+448,1921,Strv m/42,v
+449,1905,O-47,viii
+450,1857,Bat.-Chatillon 25 t AP,ix
+451,1841,WZ-120,ix
+452,1665,Lago,iv
+453,1633,Type 1 Chi-He,iv
+454,1617,Sherman V,v
+455,1585,T-34-2,viii
+456,1409,P.43 bis,vi
+457,1377,Type 3 Chi-Nu,v
+458,1361,Churchill Mk. VI,vi
+459,1153,P.43 ter,vii
+460,1137,Predator Ultramarines,vii
+461,1121,Type 5 Chi-Ri,vii
+462,1073,T-34-1,vii
+463,1041,StuG III Ausf. G,v
+464,1025,BT-2,ii
+465,897,P.44 Pantera,viii
+466,641,Prototipo Standard B,ix
+467,593,Sherman Firefly,vi
+468,385,Progetto M40 mod. 65,x
+469,337,Vickers Medium Mk. II,ii
+470,289,M3 Stuart,ii
+471,113,Vindicator Ultramarines,vii
+472,33,T14,v
+216,10513,VK 45.02 (P) Ausf. A,viii
+144,8193,Object 704,ix
+215,9761,M24 Chaffee,vi
+151,16657,Rhm.-Borsig Waffentr?ger,viii
+138,7441,VK 45.02 (P) Ausf. B,ix
+209,56609,T28 Concept,vii
+90,6417,Pz.Kpfw. III/IV,v
+164,54289,L?we,viii
+170,4369,Pz.Kpfw. III,iii
+160,19985,Rheinmetall Skorpion G,viii
+134,16401,Waffentr?ger auf Pz. IV,ix
+80,52241,Pz.Kpfw. B2 740 (f),iv
+230,63585,Tiger Kuromorimine SP,vi
+203,18961,Sp?hpanzer SP I C,vii
+190,1297,Panther I,vii
+69,17,Pz.Kpfw. IV Ausf. G,v
+171,59137,IS-2 (1945),vii
+96,63841,Panzer IV Ankou Special,v
+159,11537,Jagdpanther II,viii
+157,64801,T34 Independence,viii
+185,529,Tiger I,vii
+61,3345,Pz.Kpfw. 38 (t),iii
+95,3361,T1 Heavy Tank,v
+63,51985,Pz.Kpfw. S35 739 (f),iii
+45,785,Pz.Kpfw. 35 (t),ii
+105,625,Stridsvagn 74A2,vi
+181,2161,WZ 135G FT Blaze,vii
+74,6161,Pz.Kpfw. II Luchs,iv
+321,19713,Loza’s M4-A2 Sherman,vi
+228,11553,M18 Hellcat,vi
+254,58881,IS-5 (Object 730),viii
+44,865,Type 95 Ha-Go,i
+87,5393,VK 16.02 Leopard,v
+131,11281,KpfPz 70,ix
+129,12305,E 50 Ausf. M,x
+113,16193,M4A1 Revalorisé,viii
+73,13329,Durchbruchswagen 2,iv
+57,2145,Type 97 Chi-Ha,iii
+72,4945,Valentine Mk. IX,iv
+201,1057,M4 Sherman,v
+70,17425,Pz.Kpfw. IV Ausf. D,iv
+161,18449,Sp?hpanzer Ru 251,viii
+247,1889,Type 4 Chi-To,vi
+77,1537,T-28 mod. 1940,iv
+183,3857,Jagdpanther,vii
+214,20497,VK 100.01 (P),viii
+25,55073,T7 Combat Car,ii
+226,7201,M36 Jackson,vi
+40,5665,T2 Medium Tank,ii
+109,10817,AMX AC mle. 46,vii
+115,1313,M4A3E8 Sherman,vi
+133,5441,AMX 30 1er prototype,ix
+167,11297,T28 Prototype,viii
+198,20481,252工程,viii
+193,11025,Sturer Emil,vii
+126,12049,Jagdpanzer E 100,x
+166,13345,T26E4 SuperPershing,viii
+221,13889,AMX 50 Foch (155),x
+66,13073,Pz.Kpfw. II Ausf. G,iii
+158,64561,112 Glacial,viii
+102,16145,Pz.Sfl. IVc,v
+65,60929,BT-7 artillery,iii
+64,17169,Pz.Kpfw. IV Ausf. A,iii
+43,1825,M2 Light Tank,i
+192,17953,M41 Walker Bulldog,vii
+103,1553,Jagdpanzer IV,vi
+139,5713,Centurion Mk. 7/1,ix
+50,52769,M22 Locust,iii
+98,51473,Pz.Kpfw. V/IV,v
+47,7761,Cruiser Mk. III,ii
+150,62737,leKpz M 41 90 mm,viii
+191,1649,Helsing,vii
+116,10017,M4A3E2 Sherman Jumbo,vi
+400,5937,59-巴顿,viii
+205,63553,AMX Chasseur de chars,viii
+250,16705,AMX M4 mle. 49,viii
+122,13569,Object 268,x
+132,14865,Leopard Prototyp A,ix
