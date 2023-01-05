@@ -1,2 +1,4 @@
 # ARC-Club-Rank-Backup
-Backup of ARC Rank database
+ARC offical website (www.clanarc.com and www.sdtclan.com) was established in 2019.4 by me. Three years later, in 2021.9, an application 'ARC Club' was released as mobile version of the website, which include more functionalities. The main functionalities of the website and the applications are giving players to share their ranks in the game and letting them watch game videoes and share experience.This project records everything I learned from a beginner to now.  This is also my final project for my becholar degree, and I pass with distinction. In 2023.1, due to lack of users and server expense, I hereby announce that all service including ARC Website, ARC Club will stop running.
+
+A big thanks for all users who used the app, this repository will save the rank data for any potential useage. All privacy information has been removed. You can also visit the way back machine for a view of the website. https://web.archive.org/web/20190601194031/http://www.sdtclan.com/   https://web.archive.org/web/20211130024039/http://clanarc.com/
